@@ -1,7 +1,7 @@
 {
   "name": "case1-assessment-smruti Example App",
   "description": "Assesment",
-  "addons": [
+  "addons": [{
     "plan": "heroku-postgresql"
-  ]
+  }]
 }
